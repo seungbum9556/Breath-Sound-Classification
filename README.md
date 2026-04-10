@@ -88,6 +88,11 @@ The model successfully learned meaningful patterns from audio signals, although 
 - Limited evaluation on unseen data
 
 ---
+## Contribution
+- Designed and implemented audio preprocessing pipeline (resampling, padding, Mel-Spectrogram)
+- Built a CNN + Bi-directional GRU hybrid model for audio classification
+- Conducted training experiments and analyzed model performance
+---
 
 ## Future Work
 - Introduce validation set and cross-validation
